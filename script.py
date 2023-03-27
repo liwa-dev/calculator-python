@@ -44,7 +44,7 @@ app = QApplication(sys.argv)
 
 
 # Load the UI file
-widget = loadUi('untitled.ui')
+widget = loadUi('calculator.ui')
 widget.show()
 buttons = [widget.num0,widget.num1,widget.num2,widget.num3,widget.num4,widget.num5,widget.num6,widget.num7,widget.num8,widget.num9,widget.equal,widget.plus,widget.division,widget.multiple,widget.delet,widget.ac,widget.right,widget.left,widget.point,widget.minus
 ]
