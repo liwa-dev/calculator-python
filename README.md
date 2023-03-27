@@ -24,7 +24,7 @@ This is a simple calculator application built with Python and the Qt Designer gr
 
 ## Customization
 
-If you want to customize the application, you can modify the `calculator.ui` file in Qt Designer. You can also modify the `calculator.py` file to add more functionality or change the UI behavior.
+If you want to customize the application, you can modify the `calculator.ui` file in Qt Designer. You can also modify the `script.py` file to add more functionality or change the UI behavior.
 
 ## License
 
